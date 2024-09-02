@@ -1,0 +1,16 @@
+Products
+Get a Products -done
+Add a Product -done
+Get One Product done
+Rate Product  -done
+filter product -done
+
+Cart
+add items to Cart -done
+get items from Cart-done
+remove items from Cart -done
+
+
+user
+signup -email ,name ,password,TypeOfUser(customer,seller) -done
+signin -email,password -done

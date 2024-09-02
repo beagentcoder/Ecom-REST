@@ -1,0 +1,4 @@
+{"level":"info","message":" Mon Sep 02 2024 08:46:23 GMT+0530 (India Standard Time) --/api/products/rate?userId=1&productId=3&rating=10 - {}","service":"request-logging"}
+{"level":"info","message":" Mon Sep 02 2024 08:47:13 GMT+0530 (India Standard Time) --/api/products/userId=1&productId=3&rating=10 - {}","service":"request-logging"}
+{"level":"info","message":" Mon Sep 02 2024 08:47:20 GMT+0530 (India Standard Time) --/api/products/?userId=1&productId=3&rating=10 - {}","service":"request-logging"}
+{"level":"info","message":"Cannot read properties of undefined (reading 'split')","service":"request-logging"}
